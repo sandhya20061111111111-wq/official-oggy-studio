@@ -1,0 +1,14 @@
+{
+  "activeSessions": {
+    "session_d1ec2f794206f72bcb4051acb784f68909fcf41b93c9e4a1": {
+      "userId": "user_qpvne5x",
+      "username": "LORDxOGGY",
+      "email": "lordxoggy@oggy.studio",
+      "role": "Owner",
+      "expiresAt": 1816251980252
+    }
+  },
+  "activeOwnerSessions": [
+    "session_d1ec2f794206f72bcb4051acb784f68909fcf41b93c9e4a1"
+  ]
+}

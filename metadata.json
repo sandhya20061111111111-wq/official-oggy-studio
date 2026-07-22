@@ -1,0 +1,6 @@
+{
+  "name": "Official Oggy Studio",
+  "description": "An all-in-one AI developer platform combining ChatGPT-style AI, a web IDE, database manager, and hosting tools.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

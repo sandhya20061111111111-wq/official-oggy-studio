@@ -1,0 +1,24 @@
+[
+  {
+    "id": "user_qpvne5x",
+    "username": "LORDxOGGY",
+    "email": "lordxoggy@oggy.studio",
+    "passwordHash": "e390ac3dd247f734a7841edcb6e75d7b5dec7cd389fd58e5401314c53f2b92fe",
+    "role": "Owner",
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "loginHistory": [
+      {
+        "timestamp": "2026-07-22T10:26:20.251Z",
+        "ip": "127.0.0.1",
+        "status": "Login Success"
+      },
+      {
+        "timestamp": "2026-07-22T10:23:05.357Z",
+        "ip": "127.0.0.1",
+        "status": "Pre-seeded Root Owner"
+      }
+    ],
+    "createdAt": "2026-07-22T10:23:05.357Z"
+  }
+]
