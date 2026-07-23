@@ -1,14 +1,14 @@
 {
   "activeSessions": {
-    "session_d1ec2f794206f72bcb4051acb784f68909fcf41b93c9e4a1": {
-      "userId": "user_qpvne5x",
+    "session_b973c963895df4389e1a2190928abed74fa95ad8eb82265c": {
+      "userId": "user_t2i5evk",
       "username": "LORDxOGGY",
       "email": "lordxoggy@oggy.studio",
       "role": "Owner",
-      "expiresAt": 1816251980252
+      "expiresAt": 1816337804804
     }
   },
   "activeOwnerSessions": [
-    "session_d1ec2f794206f72bcb4051acb784f68909fcf41b93c9e4a1"
+    "session_b973c963895df4389e1a2190928abed74fa95ad8eb82265c"
   ]
 }
