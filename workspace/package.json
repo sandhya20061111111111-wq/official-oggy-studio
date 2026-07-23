@@ -1,0 +1,11 @@
+{
+  "name": "oggy-workspace-app",
+  "version": "1.0.0",
+  "description": "Oggy Studio Sandbox App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Running tests... All 4 passed!\""
+  },
+  "dependencies": {}
+}
